@@ -31,7 +31,7 @@ doks:
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
-        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+        disqus_forum_shortname: xdc-community # Add your disqus forum shortname to activate comments
 
 # SASS settings
 sass:
