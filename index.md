@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: XDC Developer Community Portal
+title: XDC Community Portal
 description: XDC Network Documentation Curated and Maintained by a Global Developer Community
 buttons:
     - content: Button
