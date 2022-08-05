@@ -4,7 +4,7 @@ doks:
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: Project name
+            text: XDC Community Portal
             image:
         nav:
             - item_name: Item 1
@@ -16,7 +16,7 @@ doks:
     footer:
         content:
             logo:
-                text: Project name
+                text: XDC Community Portal
                 image:
             copyright: Copyright &copy; 2022. - XDC Community <br>All rights reserved.
         social_list:
