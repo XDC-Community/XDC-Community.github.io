@@ -18,7 +18,7 @@ doks:
             logo:
                 text: Project name
                 image:
-            copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
+            copyright: Copyright &copy; 2022. - XDC Community <br>All rights reserved.
         social_list:
             - network_name: facebook
               profile_url: '#'
