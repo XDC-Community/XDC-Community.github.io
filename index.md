@@ -14,6 +14,7 @@ buttons:
       content: Button with icon
       url: '#'
       external_url: true
+content: This is a test to see what a little block of text looks like.  I would like to add a navigation bar but I have no idea how.
 
 # Author box
 author:
