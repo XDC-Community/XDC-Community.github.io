@@ -20,14 +20,14 @@ doks:
                 image:
             copyright: Copyright &copy; 2022. - XDC Community <br>All rights reserved.
         social_list:
-            - network_name: facebook
-              profile_url: '#'
+            - network_name: linkedin
+              profile_url: 'https://www.linkedin.com/company/xdc-foundation'
             - network_name: twitter
-              profile_url: '#'
-            - network_name: instagram
-              profile_url: '#'
+              profile_url: 'https://twitter.com/XDCFoundation'
             - network_name: youtube
-              profile_url: '#'
+              profile_url: 'https://www.youtube.com/channel/UCXAAtlD-CRraNJKzDTF4pfg'
+            - network_name: github
+              profile_url: 'https://github.com/XDCFoundation'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
