@@ -8,12 +8,12 @@
 ####################################################
 
 # Site settings
-title: "Doxy - Documentation Website"
-email: "themeix@gmail.com"
-description: "Doxy is a responsive Jekyll template for your documentation or knowledgebase website"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
+title: "XDC Community - Developer Portal"
+email: "jon@coracle.us"
+description: "xdc.community is a decentralized, public, open source developer portal created and maintained by a global developer community"
+keywords: "xdc, xdc developer portal, xinfin, xdc documentation, xdc developer, xdc portal, xdc development"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekyll-doxy.netlify.app/"
+url: "https://xdc.community"
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
 facebook: "https://www.facebook.com"
 twitter: "https://www.twitter.com"
