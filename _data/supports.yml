@@ -1,8 +1,8 @@
-- name: Live Chat
+- name: Fork the Repository
   icon: /assets/images/looking-logo.png
-  description: psum is simply dummy text of the pritypesetting industry Lorem Ipsum has been the industry's standard 
-  button_label: Join Chatroom
-  url: #
+  description: Fork the repository and update the source to propose an improvement to the developer portal 
+  button_label: Fork
+  url: https://github.com/XDC-Community/XDC-Community.github.io/fork
   animation: fadeInLeft
 
 - name: Ask the Community
