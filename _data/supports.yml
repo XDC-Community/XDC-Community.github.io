@@ -1,5 +1,5 @@
 - name: Fork the Repository
-  icon: /assets/images/looking-logo.png
+  icon: /assets/images/fork.png
   description: Fork the repository and update the source to propose an improvement to the developer portal 
   button_label: Fork
   url: https://github.com/XDC-Community/XDC-Community.github.io/fork
