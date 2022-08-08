@@ -16,15 +16,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xdc.community"
 cover_image: "https://static1.squarespace.com/static/61d4c274803cdc2a1dfaa4d2/t/62d1ad2ea195db3805a3fdcf/1657908526321/Logo_XDC_Network.png" # Image will Display in Social Media When share the website
 facebook: "https://www.facebook.com"
-twitter: "https://www.twitter.com"
-instagram: "https://www.instagram.com"
-github: "https://www.github.com"
-linkedin: "https://www.linkedin.com"
+twitter: "https://twitter.com/xdc_community"
+instagram: "https://www.instagram.com/xdc_foundation/"
+github: "https://github.com/XDC-Community"
+linkedin: "https://www.linkedin.com/company/xdc-foundation"
 behance: "https://www.behance.com"
-reddit: "https://www.reddit.com"
-vimeo: "https://www.vimeo.com"
+reddit: "https://www.reddit.com/r/xinfin/"
+vimeo: "https://vimeo.com/xdccommunity"
 dribble: "https://www.dribble.com"
-youtube: "https://www.youtube.com"
+youtube: "https://www.youtube.com/channel/UCXAAtlD-CRraNJKzDTF4pfg"
 
 ## Theme Options
 animated_header: ""  #true 
