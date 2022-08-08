@@ -1,9 +1,9 @@
 
-- title: "<span>All in One</span> documentation site for digital product authors"
-  button_label: "Purchase Now"
+- title: "<span>XDC Network</span> documentation portal for XDC Network developers"
+  button_label: "Get Started"
   button_link: "https://themeix.com/product/doxy-documentation-website-jekyll-template/"
 
-- title: "<span>Number #1</span> documentation template in Jekyll"
-  button_label: "Create a Ticket"
+- title: "<span>Build it on XDC</span> with tutorials and sample code"
+  button_label: "Explore"
   button_link: "/pages/submit-ticket"
 
