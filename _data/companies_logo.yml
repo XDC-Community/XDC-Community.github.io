@@ -1,6 +1,6 @@
-- name: Company Name1
-  image: /assets/images/company-logo4.png
-  url: #
+- name: Discord
+  image: /assets/images/discord-small.png
+  url: {{site.discord}}
   
 - name: Company Name2
   image: /assets/images/company-logo3.png
@@ -17,3 +17,7 @@
 - name: Company Name5
   image: /assets/images/company-logo5.png
   url: #  
+
+- name: Company Name6
+  image: /assets/images/company-logo5.png
+  url: # 
