@@ -1,23 +1,27 @@
 - name: Discord
   image: /assets/images/discord-small.png
-  url: {{site.discord}}
+  url: https://discord.gg/QbwbXjfg
   
-- name: Company Name2
-  image: /assets/images/company-logo3.png
-  url: #
+- name: Instagram
+  image: /assets/images/instagram-small.png
+  url: https://www.instagram.com/xdc_foundation
 
-- name: Company Name3
-  image: /assets/images/company-logo2.png
-  url: #  
+- name: LinkedIn
+  image: /assets/images/linkedin-small.png
+  url: https://www.linkedin.com/company/xdc-foundation
 
-- name: Company Name4
-  image: /assets/images/company-logo3.png
-  url: #  
+- name: Telegram
+  image: /assets/images/telegram-small.png
+  url: https://t.me/XinFinUnofficialPriceChat
 
-- name: Company Name5
-  image: /assets/images/company-logo5.png
-  url: #  
+- name: Twitter
+  image: /assets/images/twitter-small.png
+  url: https://twitter.com/xdc_community
 
-- name: Company Name6
-  image: /assets/images/company-logo5.png
-  url: # 
+- name: YouTube
+  image: /assets/images/youtube-small.png
+  url: https://www.youtube.com/channel/UCXAAtlD-CRraNJKzDTF4pfg
+
+- name: GitHub
+  image: /assets/images/github-small.png
+  url: https://github.com/XDC-Community
