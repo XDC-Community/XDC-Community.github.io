@@ -4,7 +4,7 @@
   url: /
 - text: Support
   url: /pages/support
-- text: Community Voices
+- text: Blog
   url: /blog-post-left-sidebar
 - text: Docs
   url: /explore-topics
@@ -15,18 +15,7 @@
     url: /docs/cloud-flare/
   - text: Docs Fullwidth
     url: /docs/client-editable-jekyll-sites/
-- text: Pages
-  url: /
-  submenu:
-  - text: Changelog
-    url: /pages/changelog
-  - text: Testimonials
-    url: /pages/testimonials    
-  - text: Privacy Policy
-    url: /pages/privacy-policy    
-  - text: FAQ
-    url: /pages/faq 
-  - text: Submit Ticket
-    url: /pages/submit-ticket
-- text: Contact
-  url: /pages/contact
+- text: Challenges
+  url: /pages/challenges
+- text: Discord
+  url: https://discord.gg/QbwbXjfg
