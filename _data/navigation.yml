@@ -2,10 +2,6 @@
 
 - text: Home
   url: /
-- text: Support
-  url: /pages/support
-- text: Blog
-  url: /blog-post-left-sidebar
 - text: Docs
   url: /explore-topics
   submenu:
@@ -15,7 +11,11 @@
     url: /docs/cloud-flare/
   - text: Docs Fullwidth
     url: /docs/client-editable-jekyll-sites/
+- text: Blog
+  url: /blog-post-left-sidebar
 - text: Challenges
   url: /pages/challenges
+- text: Support
+  url: /pages/support
 - text: Discord
   url: https://discord.gg/QbwbXjfg
