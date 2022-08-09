@@ -3,7 +3,7 @@ layout: post_left
 title: "Blog Post - Left Sidebar"
 date: 2018-12-06 8:14:30 +0600
 tags: education
-post_image: /assets/images/discord-small.png
+post_image: /assets/images/community-voices.png
 comment: true
 ---
 
