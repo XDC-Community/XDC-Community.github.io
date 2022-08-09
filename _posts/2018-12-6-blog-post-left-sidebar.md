@@ -1,7 +1,7 @@
 ---
 layout: post_left
-title: "Blog Post - Left Sidebar"
-date: 2018-12-06 8:14:30 +0600
+title: "XDC Network Community Voices"
+date: 2022-08-05 8:14:30 +0600
 tags: education
 post_image: /assets/images/community-voices.png
 comment: true
