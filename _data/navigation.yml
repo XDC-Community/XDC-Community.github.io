@@ -17,5 +17,7 @@
   url: /pages/challenges
 - text: Support
   url: /pages/support
+- text: XIPs
+  url: https://xips.xdc.community/
 - text: Discord
   url: https://discord.gg/QbwbXjfg
