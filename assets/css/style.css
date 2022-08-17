@@ -625,7 +625,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   margin: 10px 0;
   display: block;
 }
-@media (max-width: 575px) {
+@media (max-width: 1000px) {
   .header-navigation .navigation-box .header-logo {
     margin: 8px 0;
     width: 110px;
