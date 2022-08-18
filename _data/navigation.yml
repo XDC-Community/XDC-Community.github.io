@@ -11,8 +11,6 @@
     url: /docs/cloud-flare/
   - text: Docs Fullwidth
     url: /docs/client-editable-jekyll-sites/
-- text: Blog
-  url: /blog-post-left-sidebar
 - text: Challenges
   url: /pages/challenges
 - text: Support
