@@ -3,7 +3,7 @@
   button_label: "Docs"
   button_link: "https://themeix.com/product/doxy-documentation-website-jekyll-template/"
 
-- title: "<span>Build it on XDC</span> with tutorials and sample code"
-  button_label: "Explore"
-  button_link: "/pages/submit-ticket"
+- title: "<span>Become an XIP Editor</span> and help decentralize decision making on the XDC Network"
+  button_label: "XIP"
+  button_link: "/docs/xip-editor-handbook"
 
