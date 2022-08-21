@@ -1,18 +1,18 @@
-- title: Knowledge Base
+- title: Frequently Asked Questions
   icon: /assets/images/service-icon2.png
-  description: psum is simply dummy text of the pritypesetting industry Lorem Ipsum has been the industry’s standard
-  button_label: Learn More
-  url: /pages/explore-topics/
-  
-- title: Question Answer
-  icon: /assets/images/service-icon.png
-  description:  It has survived not only five centuries, but also the leap into electronic typesetting, remaining.
+  description: Explore a list of common questions to gain quick access to information.
   button_label: Read FAQ
   url: /pages/faq/
   
+- title: Challenges
+  icon: /assets/images/service-icon.png
+  description:  Challenges are a way for developers to learn fundamental and advanced skills by actually coding.
+  button_label: Level Up
+  url: /pages/challenges/
+  
 - title: Documentation
   icon: /assets/images/service-icon3.png
-  description:  It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
+  description:  Read detailed documentation, explore tutorials, and look at sample code to get up and running quickly.
   button_label: Read Docs
   url: /docs/left-sidebar-example
   
