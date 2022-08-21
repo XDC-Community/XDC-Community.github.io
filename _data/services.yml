@@ -6,13 +6,13 @@
   
 - title: Challenges
   icon: /assets/images/challenges-icon.png
-  description:  Challenges are a way for developers to learn fundamental and advanced skills by actually coding.
+  description:  Learn fundamental and advanced skills by actually coding.
   button_label: Level Up
   url: /pages/challenges/
   
 - title: Documentation
   icon: /assets/images/service-icon3.png
-  description:  Read detailed documentation, explore tutorials, and look at sample code to get up and running quickly.
+  description:  Read detailed documentation, explore tutorials, and look at sample code.
   button_label: Read Docs
   url: /docs/left-sidebar-example
   
