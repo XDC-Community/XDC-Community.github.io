@@ -5,7 +5,7 @@
   url: /pages/faq/
   
 - title: Challenges
-  icon: /assets/images/service-icon.png
+  icon: /assets/images/challenges-icon.png
   description:  Challenges are a way for developers to learn fundamental and advanced skills by actually coding.
   button_label: Level Up
   url: /pages/challenges/
