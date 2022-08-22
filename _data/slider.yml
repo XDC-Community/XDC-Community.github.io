@@ -1,7 +1,7 @@
 
 - title: "<span>XDC Network</span> documentation portal for XDC Network developers"
   button_label: "Docs"
-  button_link: "/docs/explore-topics"
+  button_link: "https://www.xdc.community/explore-topics/"
 
 - title: "<span>Become an XIP Editor</span> and help decentralize decision making on the XDC Network"
   button_label: "XIP"
