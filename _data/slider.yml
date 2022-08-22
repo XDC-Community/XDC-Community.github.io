@@ -1,7 +1,7 @@
 
 - title: "<span>XDC Network</span> documentation portal for XDC Network developers"
   button_label: "Docs"
-  button_link: "https://themeix.com/product/doxy-documentation-website-jekyll-template/"
+  button_link: "/docs/explore-topics"
 
 - title: "<span>Become an XIP Editor</span> and help decentralize decision making on the XDC Network"
   button_label: "XIP"
