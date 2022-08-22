@@ -6,13 +6,13 @@
   url: /explore-topics
   submenu:
   - text: Concepts
-    url: /docs/file-structure/
+    url: /pages/concepts
   - text: Tutorials
-    url: /docs/cloud-flare/
+    url: /pages/tutorials
   - text: Documentation
-    url: /docs/client-editable-jekyll-sites/
+    url: /pages/documentation
   - text: Tools
-    url: /docs/client-editable-jekyll-sites/
+    url: /pages/tools
 - text: Challenges
   url: /pages/challenges
 - text: Support
