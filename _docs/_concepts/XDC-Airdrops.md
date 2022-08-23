@@ -6,6 +6,7 @@ post_image: assets/images/service-icon3.png
 tags:
 toc: true
 ---
+
 <h1>Implementing XDC Airdrops </h1>
 
 ## Section 1
