@@ -1,17 +1,17 @@
 - name: Integrate XDCPay
-  icon: /assets/images/popular-logo.png
+  icon: /assets/images/wallet-icon.png
   description: Integrating smart contracts into Web2.0 applications using XDCPay
   button_label: Read On
   url: /docs/concepts/Integrate-XDCPay/
   
 - name: XDC Airdrops
-  icon: /assets/images/popular-logo5.png
+  icon: /assets/images/airdrop-icon.png
   description: Implementing XDC Airdrops and example code
   button_label: Read On
   url: /docs/concepts/XDC-Airdrops/
   
 - name: NFTs as Identification
-  icon: /assets/images/looking-logo.png
+  icon: /assets/images/nft-icon.png
   description: Implementing NFTs as identification tokens for delegating authority
   button_label: Read On
   url: /docs/concepts/NFT-as-ID
