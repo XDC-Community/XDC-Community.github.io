@@ -8,7 +8,7 @@ keywords: "responsive,jekyll,minimal template"
          <div class="topics-wrapper section-spacing bminus-30">
             <div class="container">
                <div class="row">
-				{% assign groups = site.docs | group_by: "category_name" | sort: "name" %}
+				{% assign groups = site.docs.details | group_by: "category_name" | sort: "name" %}
 				{% for group in groups %}
 				<div class="col-md-6 col-lg-4">
 					<article class="topics-service bg-color3 wow fadeIn" data-wow-duration="3s">
